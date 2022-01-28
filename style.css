@@ -1,0 +1,20 @@
+body {
+    background-color:rgb(214,236,239);
+    text-align: center;  
+  }
+
+
+  img{
+
+    text-align: left; 
+    position: center; 
+    width: 25% ;
+  
+  }
+
+  h1{
+      font-family:'Farro', sans-serif;
+      color: black;
+      font-size: 40px;
+
+  }
